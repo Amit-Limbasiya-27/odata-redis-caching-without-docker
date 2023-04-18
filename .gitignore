@@ -1,0 +1,5 @@
+/bulkcopyCode.txt
+*.vs/
+/queries.txt
+/ODataRedisCaching.sln
+/.editorconfig
